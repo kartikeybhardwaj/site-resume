@@ -1,5 +1,5 @@
 FROM nginx:alpine
-EXPOSE 4200
+EXPOSE 4201
 
 RUN rm -rf /usr/share/nginx/html/*
 
